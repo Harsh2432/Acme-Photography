@@ -1,2 +1,2 @@
 # Acme-Photography
-A Responsive Mobile First Website made using HTML and CSS!
+A Responsive Photography Website made using HTML, CSS and JavaScript!
